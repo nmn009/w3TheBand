@@ -127,7 +127,7 @@ html {
     margin-top: 43px;
     padding-top: 50%;
     /* Background Shorthand color - img - repeat - attachment - position */
-    background: url('/assets/img/la.jpg') top center / cover no-repeat;
+    background: url('../img/la.jpg') top center / cover no-repeat;
     position: relative;
 }
 
